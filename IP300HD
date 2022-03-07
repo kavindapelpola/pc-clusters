@@ -1,1 +1,0 @@
-{ "type": "FeatureCollection", "features": [{ "type": "Feature", "geometry": { "type": "Point", "coordinates":[0.8034276552569506, 52.15828470488835] },"properties": { "postcode":"IP30 0HD" } },{ "type": "Feature", "geometry": { "type": "Point", "coordinates":[0.798171372794438, 52.16051423145013] },"properties": { "postcode":"IP30 0HB" } }]}
